@@ -14,9 +14,13 @@ The app is simple and easy to use,with a clean interface where you can add,edit,
 #Technologies
 
 -JavaScript
+
 -React Native
+
 -Expo
+
 -AsyncStorage
+
 -React Navigation
 
 
